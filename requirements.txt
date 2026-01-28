@@ -1,0 +1,18 @@
+ # Core
+numpy==1.26.4
+opencv-python==4.8.0.76
+pillow
+imutils
+
+# TensorFlow (stable + compatible)
+tensorflow==2.15.0
+keras==2.15.0
+
+# Emotion / Face
+mediapipe==0.10.9
+protobuf>=3.11,<4
+
+# Web (if needed)
+flask
+flask-cors
+
