@@ -38,4 +38,17 @@ The system detects human facial expressions through a webcam, analyzes emotions,
 
 ---
 
+## Usage & Permissions
+
+This project is licensed under the MIT License.
+
+✅ You are free to:
+- Download and run this project
+- Modify the code
+- Use it for learning, demos, or personal projects
+- Share it with others
+
+📌 Attribution is appreciated but not required.
+
+
 
